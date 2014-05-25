@@ -7,6 +7,7 @@
 ## makeCacheMatrix constructs a 2x2 sqaure matrix 
 ## and calculates the inverse of the matrix
 ## Author: abmonga
+## R Tutorials
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
   set <- function (y)  {     ## constructs a (2x2)matrix
